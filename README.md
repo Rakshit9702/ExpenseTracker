@@ -48,6 +48,6 @@ The application supports a variety of functionalities, including user and expens
 
 ###  Clone the Repository
 ```sh
-git clone https://github.com/Luytheti/familyexpensetracker.git
+git clone https://github.com/Rakshit9702/ExpenseTracker.git
 cd familyexpensetracker
 
